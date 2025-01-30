@@ -1,4 +1,4 @@
-# Web-Based Mass-Mail Dispatcher
+## Web-Based Mass-Mail Dispatcher
 
 ## Project Overview
 The Web-Based Mass-Mail Dispatcher is an automated email-sending system that enables users to send bulk emails efficiently. 
